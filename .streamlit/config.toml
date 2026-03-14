@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#006400"
+backgroundColor = "#f0f8ff"
+secondaryBackgroundColor = "#e6f3e6"
+textColor = "#1a1a1a"
+
+[server]
+headless = true
+enableCORS = true
+enableXsrfProtection = false  # Or true if you need CSRF protection; false is fine for local apps
