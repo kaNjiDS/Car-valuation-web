@@ -35,7 +35,7 @@ Prediction System** built using **Streamlit** and **Machine Learning**.
 ## Running the Project
 
 ``` bash
-git clone <your-repo-link>
+git clone <https://github.com/kaNjiDS/Car-valuation-web.git>
 cd Car-valuation-web
 python -m venv .venv
 .venv\Scripts\activate
